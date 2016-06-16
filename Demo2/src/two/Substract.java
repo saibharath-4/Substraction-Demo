@@ -10,6 +10,7 @@ public class Substract {
 		System.out.println(c);
 		System.out.println("Substraction is:"+c);
 		System.out.print("c");
+		System.out.println("Hi all ");
 	}
 
 }
