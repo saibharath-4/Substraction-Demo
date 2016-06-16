@@ -11,6 +11,7 @@ public class Substract {
 		System.out.println("Substraction is:"+c);
 		System.out.print("c");
 		System.out.println("Hi all ");
+		System.out.println();
 	}
 
 }
